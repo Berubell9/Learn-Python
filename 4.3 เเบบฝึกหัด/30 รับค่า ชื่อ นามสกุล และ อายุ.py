@@ -1,0 +1,5 @@
+a = str(input("Enter your first name : "))
+b = str(input("Enter your last name : "))
+c = str(input("Enter your age : "))
+print("Hello %s %s" % (a , b))
+print("You’re %s years old" % c)
